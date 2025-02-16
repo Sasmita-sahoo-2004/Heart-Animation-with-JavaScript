@@ -17,4 +17,6 @@ A beautiful heart animation effect created using HTML5 Canvas and JavaScript.
 - Edit style in index.html to change canvas appearance.  
 
 ##  Screenshot  
-![image](https://github.com/user-attachments/assets/84e4e0cc-9dee-44ff-9199-01be430a5b3f)
+https://github.com/user-attachments/assets/2170a996-6f70-4b3d-983f-23d5ed62a774
+
+
